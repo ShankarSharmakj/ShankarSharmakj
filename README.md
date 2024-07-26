@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/16392390/README.md)<h1 align="center">Hi 👋, I'm SHANKAR SHARMA K J</h1>
+<h1 align="center">Hi 👋, I'm SHANKAR SHARMA K J</h1>
 <h3 align="center">A Passionate Programmer And A Coding Enthusiast from KRCT,Trichy</h3>
 
 - 📫 How to reach me **k.j.shankarsharma2004@gmail.com**
