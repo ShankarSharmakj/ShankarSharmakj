@@ -30,6 +30,4 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Electronics+and+Communication+Engineer;Software+Developer;Web+Developer+From+🇮🇳&font=Fira+Code&center=true&width=1100&height=50&size=32&duration=2000&pause=2000)
-</p>
