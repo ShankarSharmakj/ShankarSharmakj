@@ -8,9 +8,9 @@
 <h1 align="center">Hi 👋, I'm SHANKAR SHARMA K J</h1>
 <h3 align="center">A Passionate Programmer and A Coding Enthusiast from KRCT, Trichy</h3>
 
-<p> 🌱 Hello, I am Shankar Sharma an enthusiastic front-end as-well-as backend developer and creating captivating and user-friendly web experiences.
+<p> 🌱 Hello, I am Shankar Sharma an enthusiastic Web Developer as well as Software developer and creating captivating and user-friendly web experiences.
 
-💻 I have a solid foundation in C, C++, Java, Python, HTML, CSS, JavaScript, JQuery, ReactJS, NodeJS and Bootstrap. I transform imaginative designs into functional websites.
+💻 I have a solid foundation in C, C++, Java, Python, HTML, CSS, JavaScript, JQuery and SQL. I transform imaginative designs into functional websites.
 
 <p>🔭 I am always seeking out new challenges and opportunities to expand my skill set, and I am excited to bring my expertise and passion for software development to any organization. </p>
 
@@ -31,5 +31,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Thank+you+for+visiting+😊;Leave+a+⭐+if+you+like+it+😊&font=Fira+Code&center=true&width=1100&height=50&size=32&duration=2000&pause=2000)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Electronics+and+Communication+Engineer;Software+Developer;Web+Developer+From+🇮🇳&font=Fira+Code&center=true&width=1100&height=50&size=32&duration=2000&pause=2000)
 </p>
