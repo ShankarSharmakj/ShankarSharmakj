@@ -1,37 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Typing Animation</title>
-  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-  <style>
-    #typed {
-      font-family: 'Fira Code', monospace;
-      font-size: 32px;
-      text-align: center;
-      margin-top: 50px;
-    }
-  </style>
-</head>
-<body>
-
-<div id="typed"></div>
-
-<script>
-  var typed = new Typed('#typed', {
-    strings: [
-      'Electronics and Communication Engineer',
-      'Software Developer',
-      'Web Developer From 🇮🇳'
-    ],
-    typeSpeed: 50,
-    backSpeed: 25,
-    backDelay: 2000,
-    loop: true
-  });
-</script>
-
-</body>
-</html>
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Electronics+and+Communication+Engineer;Software+Developer;Web+Developer+From+🇮🇳&font=Fira+Code&center=true&width=700&height=50&size=32&duration=2000&pause=2000)
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shankarsharmakj&label=Profile%20views&color=0e75b6&style=flat" alt="shankarsharmakj " /> </p>
